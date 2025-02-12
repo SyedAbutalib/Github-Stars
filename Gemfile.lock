@@ -63,7 +63,7 @@ GEM
       rack (>= 1.2, < 4)
     octicons (19.11.0)
     public_suffix (6.0.1)
-    rack (3.1.7)
+    rack (3.1.10)
     rack-protection (4.0.0)
       base64 (>= 0.1.0)
       rack (>= 3.0.0, < 4)
